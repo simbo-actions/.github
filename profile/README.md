@@ -25,7 +25,7 @@ There are currently _**6**_ GitHub Actions in this organization.
 - ### **Apply Repository Settings**
 
   > A GitHub Action to apply repository settings, rulesets, labels,
-  > environments, and more from a YAML file, writing only what differs.
+  > environments, and more from YAML, writing only what differs.
 
   ⚙️ **`simbo-actions/apply-repository-settings@<SHA> # v1.0.3`**
 
@@ -52,8 +52,8 @@ There are currently _**6**_ GitHub Actions in this organization.
 
 - ### **GitHub App Bot User**
 
-  > A GitHub Action to get the bot user of a GitHub App: user ID, login, name,
-  > and email for Git.
+  > A GitHub Action to get the bot user of a GitHub App, with user ID, login,
+  > name, and email for Git.
 
   ⚙️ **`simbo-actions/github-app-bot-user@<SHA> # v1.0.2`**
 
